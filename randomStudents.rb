@@ -1,4 +1,4 @@
-p names = ["Alejandro", "Ferney", "Jorge", "Oscar", "Cindy", "Liliana", "Andres,", "Ramiro", "Julián", "Patrick", "Hugo"]
+p names = ["Alejandro", "Ferney", "Jorge", "Oscar", "Cindy", "Liliana", "Andres,", "Ramiro", "Julián", "Patrick", "Hugo"].length
 
 pair = []
 iteration = names.length % 2 == 0? (names.length) / 2 : (names.length / 2) + 1
